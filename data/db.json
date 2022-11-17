@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "first blog",
+      "body": "leven offers you convenient shopping experience at any scale leven offers you convenient shopping experience at any scale",
+      "author": "sameh"
+    },
+    {
+      "id": 2,
+      "title": "2nd blog title",
+      "body": "leven offers you convenient leven offers you convenient shopping experience at any scale leven offers you convenient shopping experience at any scaleleven offers you convenient shopping experience at any scale leven offers you convenient shopping experience at any scaleshopping experience at any scale leven offers you convenient shopping experience at any scale",
+      "author": "salma"
+    },
+    {
+      "title": "sameh helal",
+      "body": "what a damn month!\nbreaking up.\ninjuries.\nthe death of my favorite anime character\neven ",
+      "author": "sameh",
+      "id": 4
+    }
+  ]
+}
